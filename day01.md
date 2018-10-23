@@ -16,8 +16,10 @@
 `总结1.Markdown是一种标记语言，与之前自己使用过的HTML类似，使用印象笔记可以练习一下.`  
 
 # Day02（1023）
-## 一、准备工作
-1.先从Linux的安装与指令开始  
+## 一、准备工作  
+1.磁盘分区  
+
+2.先从Linux的安装与指令开始  
 系统安装（先VMware安装Centos 7）  
 ## 二、问题及总结  
 鸟哥网站：http://linux.vbird.org/Searching.php  
