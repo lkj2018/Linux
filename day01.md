@@ -13,18 +13,20 @@
 ##  四、问题及总结
 `问题1.Gitgub客户端登录一直提示登录失败?`  
 `问题2.Markdown字体变红色在这里不适用？`  
-`总结1.Markdown是一种标记语言，与之前自己使用过的HTML类似，使用印象笔记可以练习一下.`  
+总结1.Markdown是一种标记语言，与之前自己使用过的HTML类似，使用印象笔记可以练习一下.  
 
 # Day02（1023）
-## 一、准备工作  
-1.磁盘分区  
+## 一、问题及总结  
+总结1.鸟哥网站：http://linux.vbird.org/Searching.php  
+总结2.酷学园讨论区：http://phorum.study-area.org  
+总结3.鸟哥的私房菜馆讨论区：http://phorum.vbird.org    
+总结4.大概浏览了《私房菜》计算机概论章节，包含Linux发行版历史、主机规划与磁盘划等，不是很懂。后期再继续看这一块。  
 
-2.先从Linux的安装与指令开始  
-系统安装（先VMware安装Centos 7）  
-## 二、问题及总结  
-鸟哥网站：http://linux.vbird.org/Searching.php  
-酷学园讨论区：http://phorum.study-area.org  
-鸟哥的私房菜馆讨论区：http://phorum.vbird.org  
+# Day03(1024)  
+## 一、准备工作  
+1.系统安装（虚机安装Centos7，后期装双系统，先试用一段时间）  
+2.
+
 
 
 
